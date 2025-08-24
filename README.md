@@ -48,14 +48,14 @@ Driven by curiosity and creativity, I design and develop web applications that m
 ## My GitHub Stats
 
 
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBhowmik11&theme=radical)
+
 
 <!-- GitHub Overall Stats -->
 ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamBhowmik11&show_icons=true&hide=issues&hide_border=true&title_color=00FF00&icon_color=FF4500&text_color=FFFFFF&bg_color=1E1E2F&count_private=true)
 
 
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBhowmik11&theme=dark)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBhowmik11&layout=compact&theme=radical)
