@@ -1,4 +1,4 @@
-# Het i'm Shubham Bhowmik 👋
+# Hey I'm Shubham Bhowmik 👋
 Driven by curiosity and creativity, I design and develop web applications that make an impact.  
 💻 MERN Stack Developer | Always exploring new technologies  
 🌟 Let's innovate and code together!
